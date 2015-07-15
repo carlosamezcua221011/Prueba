@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<body>
+			<!-- Latest compiled and minified JavaScript -->
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+
+			<table class="table table-hover">
+			  <tr>
+				<th>Nombre</th>
+				<th>Apellidos</th>
+			  </tr>
+ 			  <tr>
+				<th>Carlos</th>
+				<th>Amezcua</th>
+			  </tr>
+			</table>
+		</body>
+	</head>
+
+</html>
